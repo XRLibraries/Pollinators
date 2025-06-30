@@ -22,6 +22,3 @@ XR Pollinators is intended for general audiences. As we do not collect any perso
 
 4. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the Game or on a relevant website. You are advised to review this Privacy Policy periodically for any changes.
-
-5. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact John Macleod directly via the contact information provided where you obtained the Game or through official channels related to the Game's distribution.
