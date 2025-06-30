@@ -17,8 +17,6 @@ To function, XR Pollinators requires specific permissions on your device. These 
 
 Camera Access: The Game requires access to your device's camera. This access is essential for the Augmented Reality (AR) features of XR Pollinators, allowing the game to overlay digital content onto your real-world environment. The camera feed is processed locally on your device and is not accessed, stored, or transmitted by us.
 
-Storage Access (Photos/Media/Files or Screenshots Folder): The Game may request access to your device's storage. This permission is specifically used to write data to disk, such as saving screenshots that you choose to take within the Game. We do not access, read, or transmit any other files from your storage.
-
 3. Children's Privacy
 XR Pollinators is intended for general audiences. As we do not collect any personal information from any users, our practices are consistent with the Children's Online Privacy Protection Act (COPPA) and other similar regulations.
 
